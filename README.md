@@ -3,7 +3,8 @@ Printable 3D model designs for the Panorama Platform
 
 Full render and Cutout view to see how the parts are installed. The vertical Platform can slide over the horizontal one.
 
-<img height=300 src="https://github.com/laurb9/Pano-Platform-3D/blob/master/Full%20Render.png" alt="Full Render"><img height=300 src="https://github.com/laurb9/Pano-Platform-3D/blob/master/Cutout%20View.png" alt="Cutout View">
+<img height="300" src="Full%20Render.png" alt="Full Render">
+<img height="300" src="Cutout%20View.png" alt="Cutout View">
 
 Parts to print:
 - 2 x Platform (one for horizontal move, and one for vertical)
