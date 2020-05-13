@@ -24,3 +24,4 @@ Other parts
 
 Thingiverse page https://www.thingiverse.com/thing:3851893
 
+Autodesk Fusion 360 model link https://a360.co/2ztelQZ (also see .f3z archive in repo)
