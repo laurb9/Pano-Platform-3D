@@ -3,8 +3,8 @@ Printable 3D model designs for the Panorama Platform
 
 Full render and Cutout view to see how the parts are installed. The vertical Platform can slide over the horizontal one.
 
-<img height="300" src="Full%20Render.png" alt="Full Render">
-<img height="300" src="Cutout%20View.png" alt="Cutout View">
+<img height="300" src="Full%20Render.jpg" alt="Full Render">
+<img height="300" src="Cutout%20View.jpg" alt="Cutout View">
 
 Parts to print:
 - 2 x Platform (one for horizontal move, and one for vertical)
@@ -21,3 +21,6 @@ Other parts
 - 1 x 1/4" thumb screw (to mount camera)
 - 1 x 3/8" to 1/4" thread adapter (to install in tripod mount)
 - Grip tape (to cover camera- and tripod-contact surfaces)
+
+Thingiverse page https://www.thingiverse.com/thing:3851893
+
